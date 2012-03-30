@@ -39,7 +39,7 @@ Scenario: (Scenario Description)
 /**
 * @Given /I have a (What da ya hav?) "([^"]*)"/
 */
-public function iHaveA(What da ya hav?)()
+public function iHaveA(What da ya hav?)($name)
 {
 	//(Your code here...)
 }
