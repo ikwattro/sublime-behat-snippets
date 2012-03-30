@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[/**
+* @Given /I have a ${1:(What da ya hav?)} "([^"]*)"/
+*/
+public function iHaveA${1}($name)
+{
+	${2://(Your code here...)}
+}
+]]></content>
+    <tabTrigger>iHave</tabTrigger>
+    <description>Behat / Feature / @Given</description>
+</snippet>

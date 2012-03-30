@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[/**
+* @Then /I should ${1:(What should ya do?)} "([^"]*)" in category "([^"]*)"/
+*/
+public function iShould${2:(CamelShould)}(${3:Arguments})
+{
+	${4://Your code here}
+}
+]]></content>
+    <tabTrigger>iShould</tabTrigger>
+    <description>Behat / Feature / @ThenIShould</description>
+</snippet>
