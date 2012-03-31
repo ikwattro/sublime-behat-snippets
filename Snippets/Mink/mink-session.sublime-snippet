@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[\$session = new \Behat\Mink\Session(${1:\$driver});
+\$session->start();
+]]></content>
+    <tabTrigger>minkSession</tabTrigger>
+    <description>Behat / Mink / Session</description>
+</snippet>
