@@ -2,6 +2,8 @@
 
 Speed up your bdd writes!
 
+nb: for Mink snippets, please use Mink folder.
+
 ## Installation
 
 Clone the repo in your personal SublimeText2/Packages folder.
