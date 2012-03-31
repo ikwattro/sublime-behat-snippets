@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$content = \$session->getPage()->getContent();]]></content>
+    <tabTrigger>minkContent</tabTrigger>
+    <description>Behat / Mink / Content</description>
+</snippet>
