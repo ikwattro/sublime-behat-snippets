@@ -16,6 +16,8 @@ Fill in then the placeholders with the needed values
 
 ### Available snippets (triggerNames)
 
+#### Behat
+
 `feature`
 
 ````
@@ -57,6 +59,21 @@ public function iShould(CamelShould)(Arguments)
 {
 	//Your code here
 }
+````
+
+#### Mink
+
+`minkSession`
+
+````
+$session = new \Behat\Mink\Session($driver);
+$session->start();
+````
+
+`minkContent`
+
+````
+$content = $session->getPage()->getContent();
 ````
 
 ## Todo's
