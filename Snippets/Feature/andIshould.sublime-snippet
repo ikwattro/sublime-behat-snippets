@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[And I Should ${1:(#you should?)}]]></content>
+    <tabTrigger>ais</tabTrigger>
+    <description>Behat / Feature / And I Should ...</description>
+</snippet>

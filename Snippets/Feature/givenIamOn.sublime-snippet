@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Given I am on ${1:(#url?)}]]></content>
+    <tabTrigger>giao</tabTrigger>
+    <description>Behat / Feature / Given I am on ...</description>
+</snippet>
