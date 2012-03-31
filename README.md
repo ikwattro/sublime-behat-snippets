@@ -61,6 +61,12 @@ public function iShould(CamelShould)(Arguments)
 }
 ````
 
+##### Rapid Snippets
+
+`giha` => `Given I have a`
+`aiha` => `And I have a`
+...
+
 #### Mink
 
 `minkSession`
