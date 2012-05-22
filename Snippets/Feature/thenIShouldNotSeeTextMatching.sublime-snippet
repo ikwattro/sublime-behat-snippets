@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Then I should not see text matching "${1:<pattern>}"]]></content>
+    <tabTrigger>txtnm</tabTrigger>
+    <description>Then I should not see text matching "pattern"</description>
+</snippet>

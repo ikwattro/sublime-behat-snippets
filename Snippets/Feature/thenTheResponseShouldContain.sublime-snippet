@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Then the response should contain "${1:<text>}"]]></content>
+    <tabTrigger>trsc</tabTrigger>
+    <description>Then the response should contain "text"</description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Then I should see ${1:(#?)}]]></content>
+    <content><![CDATA[Then I should see "${1:<text>}"]]></content>
     <tabTrigger>tiss</tabTrigger>
-    <description>Then I should see ...</description>
+    <description>Then I should see "text"</description>
 </snippet>

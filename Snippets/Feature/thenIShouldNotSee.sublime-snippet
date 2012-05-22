@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Then I should not see "${1:<text>}"]]></content>
+    <tabTrigger>tisns</tabTrigger>
+    <description>Then I should not see "text"</description>
+</snippet>
