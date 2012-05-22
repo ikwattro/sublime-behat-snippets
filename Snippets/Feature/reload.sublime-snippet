@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[When I reload the page]]></content>
+    <tabTrigger>reload</tabTrigger>
+    <description>When I reload the page</description>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[When I follow "${1:<link>}"]]></content>
+    <tabTrigger>click</tabTrigger>
+    <description>When I follow #link</description>
+</snippet>
