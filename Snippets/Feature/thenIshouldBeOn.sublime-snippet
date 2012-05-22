@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Then I should be on "${1:<page>}"]]></content>
+    <tabTrigger>tisbo</tabTrigger>
+    <description>Then I should be on "#page"</description>
+</snippet>
