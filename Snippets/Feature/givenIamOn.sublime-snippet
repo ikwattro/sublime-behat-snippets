@@ -3,8 +3,3 @@
     <tabTrigger>giao</tabTrigger>
     <description>Given I am on "page"</description>
 </snippet>
-<snippet>
-    <content><![CDATA[Given I am on "${1:(#page?)}"]]></content>
-    <tabTrigger>Given I am on</tabTrigger>
-    <description>Given I am on "page"</description>
-</snippet>

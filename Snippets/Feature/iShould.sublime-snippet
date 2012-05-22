@@ -8,5 +8,5 @@ public function iShould${2:(CamelShould)}(${3:Arguments})
 }
 ]]></content>
     <tabTrigger>iShould</tabTrigger>
-    <description>Behat / Feature / @ThenIShould</description>
+    <description>@ThenIShould</description>
 </snippet>

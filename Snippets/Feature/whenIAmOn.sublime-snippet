@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[When I am on "${1:(#url?)}"]]></content>
     <tabTrigger>wiao</tabTrigger>
-    <description>Behat / Feature / When I am on ...</description>
+    <description>When I am on ...</description>
 </snippet>

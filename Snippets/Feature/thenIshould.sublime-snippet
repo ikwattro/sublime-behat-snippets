@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Then I Should ${1:(#you should?)}]]></content>
     <tabTrigger>tis</tabTrigger>
-    <description>Behat / Feature / Then I should ...</description>
+    <description>Then I should ...</description>
 </snippet>

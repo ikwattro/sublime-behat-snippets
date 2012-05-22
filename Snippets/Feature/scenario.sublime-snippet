@@ -6,5 +6,5 @@
 	Then I ${5:(then?)}
 ]]></content>
     <tabTrigger>scenario</tabTrigger>
-    <description>Behat / Feature / Scenario</description>
+    <description>Scenario</description>
 </snippet>
