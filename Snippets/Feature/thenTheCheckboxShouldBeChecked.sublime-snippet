@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Then the "${1:<checkbox>}" checkbox should be checked]]></content>
+    <tabTrigger>ttcsbc</tabTrigger>
+    <description>Then the "checkbox" checkbox should be checked</description>
+</snippet>

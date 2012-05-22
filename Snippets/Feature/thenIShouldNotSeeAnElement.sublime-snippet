@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Then I should not see an "${1:<element>}" element]]></content>
+    <tabTrigger>tisnse</tabTrigger>
+    <description>Then I should not see an "el" element</description>
+</snippet>

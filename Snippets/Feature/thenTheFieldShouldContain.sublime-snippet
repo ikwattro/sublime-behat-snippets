@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Then the "${1:<field>}" field should contain "${2:<value>}"]]></content>
+    <tabTrigger>ttfsc</tabTrigger>
+    <description>Then the "field" field should contain "value"</description>
+</snippet>
