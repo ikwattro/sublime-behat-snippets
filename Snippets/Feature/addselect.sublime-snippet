@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[When I additionally select "${1:<option>}" from "${2:<select>}"]]></content>
+    <tabTrigger>addselect</tabTrigger>
+    <description>When I additionally select #option from #select</description>
+</snippet>

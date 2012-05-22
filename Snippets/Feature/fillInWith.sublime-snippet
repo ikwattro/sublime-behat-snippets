@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[When I fill in "${1:<field>}" with "${2:<value>}"]]></content>
+    <tabTrigger>fill</tabTrigger>
+    <description>When I fill in #field with #value</description>
+</snippet>
