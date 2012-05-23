@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[When I check "${1:<option>}"]]></content>
+    <tabTrigger>check</tabTrigger>
+    <description>When I check "#option"</description>
+</snippet>

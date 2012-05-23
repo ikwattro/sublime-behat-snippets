@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Then the "${1:<element>}" element should contain "${2:<value>}"]]></content>
+    <tabTrigger>elsc</tabTrigger>
+    <description>Then the "el" element should contain "text"</description>
+</snippet>

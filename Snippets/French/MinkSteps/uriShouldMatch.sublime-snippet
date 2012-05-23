@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Then the uri should match "${1:<pattern>}"]]></content>
+    <tabTrigger>urism</tabTrigger>
+    <description>Then the uri should match "#pattern"</description>
+</snippet>

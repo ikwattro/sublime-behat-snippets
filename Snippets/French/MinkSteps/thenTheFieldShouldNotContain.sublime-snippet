@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Then the "${1:<field>}" field should not contain "${2:<value>}"]]></content>
+    <tabTrigger>ttfsnc</tabTrigger>
+    <description>Then the "field" field should not contain "value"</description>
+</snippet>

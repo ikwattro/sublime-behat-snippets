@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[When I move backward one page]]></content>
-    <tabTrigger>wimb</tabTrigger>
-    <description>Behat / Feature / When I move backward on page</description>
-</snippet>

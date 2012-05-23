@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Then I should see text matching "${1:<pattern>}"]]></content>
+    <tabTrigger>txtm</tabTrigger>
+    <description>Then I should see text matching "pattern"</description>
+</snippet>

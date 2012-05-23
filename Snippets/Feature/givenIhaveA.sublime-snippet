@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Given I Have A ${1:(#you have?)}]]></content>
-    <tabTrigger>giha</tabTrigger>
-    <description>Behat / Feature / Given I Have A ...</description>
-</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[When I follow ${1:(#url?)}]]></content>
-    <tabTrigger>wif</tabTrigger>
-    <description>Behat / Feature / When I follow</description>
-</snippet>

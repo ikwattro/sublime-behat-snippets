@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Then the response should not contain "${1:<text>}"]]></content>
+    <tabTrigger>trsnc</tabTrigger>
+    <description>Then the response should not contain "text"</description>
+</snippet>

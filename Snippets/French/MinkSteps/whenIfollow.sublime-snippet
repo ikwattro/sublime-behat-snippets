@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[When I follow ${1:(#url?)}]]></content>
+    <tabTrigger>wif</tabTrigger>
+    <description>When I follow</description>
+</snippet>

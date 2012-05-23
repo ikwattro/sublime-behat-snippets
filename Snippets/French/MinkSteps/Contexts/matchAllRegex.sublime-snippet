@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA["([^"]*)"]]></content>
+    <tabTrigger>mreg</tabTrigger>
+    <description>Match all regex</description>
+</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Then I should see ${1:(#?)}]]></content>
-    <tabTrigger>tiss</tabTrigger>
-    <description>Behat / Feature / Then I should see ...</description>
-</snippet>

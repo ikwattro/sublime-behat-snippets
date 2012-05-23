@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[When I go to "${1:(#page?)}"]]></content>
+    <tabTrigger>wigt</tabTrigger>
+    <description>When I go to "page"</description>
+</snippet>

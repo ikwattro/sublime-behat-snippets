@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Then show last response]]></content>
+    <tabTrigger>tslr</tabTrigger>
+    <description>Then show last response</description>
+</snippet>

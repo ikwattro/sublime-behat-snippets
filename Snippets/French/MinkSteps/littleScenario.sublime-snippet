@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Scenario: ${1:<scenario>}
+	]]></content>
+    <tabTrigger>sc</tabTrigger>
+    <description>Scenario: ""</description>
+</snippet>

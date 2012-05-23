@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Given I am on "${1:(#page?)}"]]></content>
+    <tabTrigger>Given</tabTrigger>
+    <description>Given I am on "page"</description>
+</snippet>

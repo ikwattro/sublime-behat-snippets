@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Then the url should match "${1:<pattern>}"]]></content>
+    <tabTrigger>urlsm</tabTrigger>
+    <description>Then the url should match "#pattern"</description>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Then I should see an "${1:<element>}" element]]></content>
+    <tabTrigger>tisse</tabTrigger>
+    <description>Then I should see an "el" element</description>
+</snippet>

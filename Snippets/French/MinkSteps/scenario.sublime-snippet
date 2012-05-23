@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[Scenario: ${1:(Scenario Description)}
+	Given I ${2:(Given?)}
+	And ${3:(And?)}
+	When I ${4:(when?)}
+	Then I ${5:(then?)}
+]]></content>
+    <tabTrigger>scenario</tabTrigger>
+    <description>Scenario</description>
+</snippet>

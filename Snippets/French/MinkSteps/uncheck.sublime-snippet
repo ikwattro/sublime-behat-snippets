@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[When I uncheck "${1:<option>}"]]></content>
+    <tabTrigger>uncheck</tabTrigger>
+    <description>When I uncheck "#option"</description>
+</snippet>

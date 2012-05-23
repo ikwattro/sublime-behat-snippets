@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[When I attach the file "${1:<file>}" to "${2:<field>}"]]></content>
+    <tabTrigger>file</tabTrigger>
+    <description>When I attach the file "#file" to "#field"</description>
+</snippet>
