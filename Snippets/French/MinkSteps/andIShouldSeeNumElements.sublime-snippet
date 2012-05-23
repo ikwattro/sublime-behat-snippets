@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[And I should see "${1:<number>}" "${2:<element>}" elements]]></content>
+    <tabTrigger>aissne</tabTrigger>
+    <description>And I should see "num" "el" elements</description>
+</snippet>
