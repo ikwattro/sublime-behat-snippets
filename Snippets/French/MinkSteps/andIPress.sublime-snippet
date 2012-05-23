@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[And I press "${1:<button>}"]]></content>
+    <tabTrigger>aip</tabTrigger>
+    <description>And I press #button</description>
+</snippet>

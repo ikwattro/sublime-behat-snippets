@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[And the response status code should not be "${1:<status code>}"]]></content>
+    <tabTrigger>atrscsnb</tabTrigger>
+    <description>And the response status code should not be "#code"</description>
+</snippet>

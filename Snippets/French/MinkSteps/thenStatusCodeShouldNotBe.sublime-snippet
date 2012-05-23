@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Then the response status code should not be "${1:<status code>}"]]></content>
-    <tabTrigger>scsnb</tabTrigger>
+    <tabTrigger>tscsnb</tabTrigger>
     <description>Then the response status code should not be "#code"</description>
 </snippet>

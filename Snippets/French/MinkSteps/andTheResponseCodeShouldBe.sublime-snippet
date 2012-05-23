@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[And the response status code should be ${1:<status code>}]]></content>
+    <tabTrigger>atrscsb</tabTrigger>
+    <description>And the response status code should be "#code"</description>
+</snippet>
