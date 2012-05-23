@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[${1:<name>}:
+	| ${2:<title>} | ${3:<title>} | ${4:<title>} |
+	|  ${5:<value>}   |  ${6:<value>}  |  ${7:<value>}   |
+	|  ${8:<value>}   |  ${9:<value>}  |  ${10:<value>}   |
+	|  ${11:<value>}   |  ${12:<value>}  |  ${13:<value>}   |
+${14}]]></content>
+    <tabTrigger>vt3o3</tabTrigger>
+    <description>Examples Table</description>
+</snippet>
