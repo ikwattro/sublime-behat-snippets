@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[And I check "${1:<option>}"]]></content>
-    <tabTrigger>acheck</tabTrigger>
+    <tabTrigger>aic</tabTrigger>
     <description>And I check "#option"</description>
 </snippet>
